@@ -1,1 +1,0 @@
-Connect-3, game for two players, red and yellow, who take turns filling the spaces in a 3×3 grid with yellow and red circles respectively. The player who succeeds in placing three of their circles of same colour in a horizontal, vertical, or diagonal row is the winner.
